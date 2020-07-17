@@ -29,7 +29,7 @@ Now function 1 starts at the beginning of time 2, executes 4 units of time and e
 Function 0 is running again at the beginning of time 6, and also ends at the end of time 6, thus executing for 1 unit of time.
 So function 0 spends 2 + 1 = 3 units of total time executing, and function 1 spends 4 units of total time executing.
 
-![image](./image.png)
+![image](./img.png)
 
 Note:
 
